@@ -1,0 +1,25 @@
+{
+    "compilerOptions": {
+        "target": "es2019",
+        "module": "commonjs",
+        "outDir": "./dist",
+        "rootDir": "./",
+        "strict": true,
+        "strictPropertyInitialization": false,
+        "allowJs": true,
+        "baseUrl": "./src",
+        "noImplicitAny": false,
+        "esModuleInterop": true,
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true,
+        "forceConsistentCasingInFileNames": true,
+        "resolveJsonModule": true
+    },
+    "exclude": [
+        "node_modules",
+        "build",
+        "dist",
+        "prettier.config.js",
+        "jest.config.js"
+    ]
+}

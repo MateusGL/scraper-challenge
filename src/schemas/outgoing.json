@@ -1,0 +1,20 @@
+{
+    "RESULT": "success",
+    "DATA": {
+        "BODY": {
+            "FLIGHT_GO": {
+                "DATE": "28/01/2021",
+                "DEPARTURE_LOCATION": "CGB",
+                "DEPARTURE_TIME": "17:20",
+                "ARRIVAL_LOCATION": "MCZ"
+            },
+            "FLIGHT_GOBACK": {
+                "DATE": "03/02/2021",
+                "DEPARTURE_LOCATION": "MCZ",
+                "DEPARTURE_TIME": "17:00",
+                "ARRIVAL_LOCATION": "CGB"
+            }
+        }
+    },
+    "ERRORS": []
+}
